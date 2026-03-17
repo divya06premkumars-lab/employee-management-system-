@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Employee Management System
+
+## Features:
+- Add employee details
+- Update employee records
+- Delete employee
+- Search employees
+
+## Technologies Used:
+- (mention your tech like Java / Python / HTML etc.)
+
+## Description:
+This project helps manage employee data efficiently. It includes CRUD operations and provides a structured way to store and retrieve employee information.
